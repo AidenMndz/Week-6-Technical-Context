@@ -1,6 +1,6 @@
 Week 6: Technical Context
 
-1: Discord/Whiteboard Evidence = discord.png
+ 1: Discord/Whiteboard Evidence = discord.png
 
 2. Visual Studio C# App = Program.cs
    
