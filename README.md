@@ -16,4 +16,6 @@ Week 6: 6B
 
 2. White Board Evidence
 
-3. WPFMyAPP 
+3. WPFMyAPP
+
+4. MyAPP "Console.writeline()"
