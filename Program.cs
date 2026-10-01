@@ -1,21 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld
+namespace MyAPP
 {
     internal class Program
     {
+        static string Player = "Player 1";
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your name?");
-            string userName = Console.ReadLine();
-            Console.WriteLine("Hello, " + userName);
-            Console.WriteLine("What is the computer's current status?");
-            string status = Console.ReadLine();
-            Console.WriteLine("Console Status: " + status);
+          
+            Console.WriteLine("Welcome " + Player);
             
 
         }
